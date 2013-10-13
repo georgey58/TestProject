@@ -1,4 +1,4 @@
 TestProject
 ===========
 
-Test Project ofr using Git and GitHub
+Test Project for using Git and GitHub
