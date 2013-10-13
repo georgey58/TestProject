@@ -30,10 +30,7 @@ public class ThePits {
 	 	    }
 	    	 
 	     }
-	     
-	     //test change for GIT
-	     int test = maxDepth; 
-	      
+	     	      
 	     return maxDepth; 
 	    }
 		
